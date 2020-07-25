@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Locale</string>
+    <string-array name="Locale">
+        <item>Russian</item>
+        <item>English</item>
+        <item>French</item>
+    </string-array>
+    <string name="hello">Hello</string>
+    <string name="by">Goodbye</string>
+    <string name="ok">Install</string>
+</resources>
